@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">JAHAN_A9XGMR_WORLD</string>
+    <string name="brand_subtitle">ROYAL VIP GAMING ARENA</string>
+    <string name="nav_lounge">Lounge</string>
+    <string name="nav_arena">Arena</string>
+    <string name="nav_vault">Vault</string>
+    <string name="nav_pass">VIP Pass</string>
+    <string name="daily_vault_title">Daily Royal Vault</string>
+    <string name="daily_vault_ready">Claim your daily +250 Crowns &amp; +120 VIP XP</string>
+    <string name="daily_vault_claimed">Vault Claimed Today • Come back tomorrow</string>
+    <string name="enter_arena">Enter Arena</string>
+    <string name="claim_bonus">Claim Vault</string>
+    <string name="claimed_badge">Claimed</string>
+    <string name="edit_profile">Edit Gamer Tag</string>
+</resources>

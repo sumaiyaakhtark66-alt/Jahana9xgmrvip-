@@ -1,0 +1,6 @@
+{
+  "name": "JAHAN_A9XGMR_WORLD",
+  "description": "VIP gaming hub and interactive arcade arena featuring a royal purple and gold aesthetic, playable skill challenges, VIP tier progression, and exclusive perks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
